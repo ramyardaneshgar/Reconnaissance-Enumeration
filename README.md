@@ -1,6 +1,10 @@
 
 # HackTheBox Writeup: Reconnaissance & Enumeration using whois, curl, gobuster, and ReconSpider.
 
+Developed by Ramyar Daneshgar 
+⚠️ Disclaimer: All actions were performed in a controlled, authorized environment. Unauthorized use is strictly prohibited.
+
+
 ## Context and Methodology
 In this lab, I demonstrated my proficiency in reconnaissance and information-gathering techniques using tools like `whois`, `curl`, `gobuster`, and the web crawler **ReconSpider**. The goal was to identify key details about the target domain, **inlanefreight.htb**, by analyzing DNS records, HTTP headers, and performing directory enumeration. My approach was systematic:
 

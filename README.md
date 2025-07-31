@@ -1,5 +1,4 @@
-
-# HackTheBox Writeup: Reconnaissance & Enumeration using whois, curl, gobuster, and ReconSpider.
+Reconnaissance & Enumeration using whois, curl, gobuster, and ReconSpider.
 
 Developed by Ramyar Daneshgar 
 
